@@ -1,0 +1,26 @@
+body{
+    box-sizing: border-box;
+    font-size: 18px;
+}
+#img-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: papayawhip;
+    height: 500px;
+    
+}
+    
+#image{
+    max-width: 100%;
+    min-height: auto;
+    margin: 5px;
+    height: 450px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#title{
+    text-align: center;
+}
