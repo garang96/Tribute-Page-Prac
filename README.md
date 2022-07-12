@@ -9,5 +9,5 @@ This project includes a tribute page for Dr. John Garang de Mabior.
 
 ## Live Demo
 
-[tribute]()
+[tribute](https://garang96.github.io/Tribute-Page-Prac/)
 
